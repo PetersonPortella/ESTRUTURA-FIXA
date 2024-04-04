@@ -1,0 +1,62 @@
+#principal{
+    width: 920px;
+    padding: 0;
+    margin: 0 470px;
+    
+}
+
+#cabecalho{
+    padding: 40px;
+    text-align: center;
+    background: grey;
+}
+#lateral{
+    width: 220px;
+    padding: 25px;
+    margin-right: 0 5px;
+    float: left;
+    background: #575252;
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+
+}
+
+li a{
+    text-decoration: none;
+    padding: 4px;
+    
+
+}
+
+a:link, a:visited{
+    color: black;
+}
+
+
+a:hover{
+    background: white;
+    color: black;
+}
+
+
+#noticia1{
+    width: 625px;
+    height: 500px;
+    float: right;
+    text-align: center;
+    background: purple;
+}
+
+.clear{
+    clear: both;
+}
+
+
+#rodape{
+    padding: 25px;
+    color: aliceblue;
+    background: black;
+}
